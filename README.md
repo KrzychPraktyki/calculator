@@ -1,2 +1,2 @@
 # calculator
-projekct na praktyki w kaliop 
+projekt na praktyki w kaliop 
