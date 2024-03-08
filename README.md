@@ -1,3 +1,2 @@
 # calculator
-
-A new Flutter project.
+projekct na praktyki w kaliop 
